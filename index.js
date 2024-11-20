@@ -41,6 +41,7 @@ function checkLinks() {
             axios(URLS[i]).then((response) => {
                 // get current enrollment & max enrollment
                 const html = response.data;
+                // this def not the best way to do this but I didn't want to make a parser for 2 lines
                 let enrollment = html.slice(html.indexOf("ed: </b>"), html.indexOf("ed: </b>") + 10);
                 enrollment = enrollment.replace("ed: </b>", "");
                 let maxEnrollment = html.slice(html.indexOf("Enrollment: </b>"), html.indexOf("Enrollment: </b>") + 18);
