@@ -4,5 +4,5 @@ For Rice students, this will only work for non-waitlist courses (or once the wai
 a spot may open, but only students on the waitlist can add it. If you are on a waitlist, the system already notifies you when a spot opens, so this would
 be useless anyway.
 
-This project got me into EEPS 103 as a sophomore. For reference, this class had 18 spots and 27 seniors, 11 juniors, and 6 sophomore requesting it, so I had
+This project got me into EEPS 103 as a sophomore. For reference, this class had 18 spots and 27 seniors, 11 juniors, and 6 sophomores requesting it, so I had
 a 0% chance of getting it outright. Hope it can help anyone reading this!
